@@ -5,8 +5,6 @@
 ## Installation & Usage
 
 ```bash
-npm init project
-# or
 npx hackernews-cli
 # or
 npm install -g hackernews-cli
@@ -19,4 +17,4 @@ MIT
 
 ## Collaborators
 
-- Ayobami Adedapo <twitter.com/favourcodes>
+- [Ayobami Adedapo](twitter.com/favourcodes)

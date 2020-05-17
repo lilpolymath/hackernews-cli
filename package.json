@@ -1,5 +1,5 @@
 {
-  "name": "hackernews-cli",
+  "name": "@lilpolymath/hackernews-cli",
   "version": "1.0.0",
   "description": "A CLI to retreive the latest 10 articles from Hackernews.",
   "main": "src/cli.js",
