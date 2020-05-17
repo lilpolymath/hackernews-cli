@@ -3,7 +3,10 @@
   "version": "1.0.1",
   "description": "A CLI to retreive the latest 10 articles from Hackernews.",
   "main": "src/cli.js",
-  "bin": "bin/hackernews-cli.js",
+  "bin": {
+    "@lilpolymath/hackernews-cli": "bin/hackernews-cli",
+    "hackernews-cli": "bin/hackernews-cli"
+  },
   "publishConfig": {
     "access": "public"
   },
