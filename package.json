@@ -1,6 +1,10 @@
 {
   "name": "@lilpolymath/hackernews-cli",
+<<<<<<< HEAD
   "version": "1.0.1",
+=======
+  "version": "1.0.0",
+>>>>>>> 5444f16da9a3cc6ca32a7bb4c5b2acaa69373400
   "description": "A CLI to retreive the latest 10 articles from Hackernews.",
   "main": "src/cli.js",
   "bin": "bin/hackernews-cli.js",
