@@ -1,0 +1,25 @@
+{
+  "name": "@lilpolymath/hackernews-cli",
+  "version": "1.0.0",
+  "description": "A CLI to retreive the latest 10 articles from Hackernews.",
+  "main": "src/cli.js",
+  "bin": {
+    "@lilpolymath/hackernews-cli": "bin/hackernews-cli",
+    "hackernews-cli": "bin/hackernews-cli"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "hackernews"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
