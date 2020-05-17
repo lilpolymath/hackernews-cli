@@ -17,6 +17,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esm": "^3.2.25"
-  }
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.0"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ]
 }
